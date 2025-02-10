@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.414.2-jdk11
+FROM jenkins/jenkins:2.426.1-jdk11  # Upgrade Jenkins version
 
 USER root
 
